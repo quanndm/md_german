@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "82c3da1b276369eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2888b8b4810f13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e00fc4aaaff6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ngữ pháp căn bản 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ngữ pháp căn bản 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbd41878a46a56d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "231bbde0ccd82873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9b67a4ffbe01b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78629720a796d348",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb94373a296d8d2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36474d9f9cec6301",
+    "type": "split",
+    "children": [
+      {
+        "id": "807b86a1a47e3e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8109b04d888b74d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Menschen A1.1/Vocaulary lesson 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vocaulary lesson 1"
+            }
+          },
+          {
+            "id": "a7cfe9ce7e04b1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Menschen A1.1/Vocaulary lesson 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vocaulary lesson 1"
+            }
+          },
+          {
+            "id": "5b181dc79e7a1c0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b08eef898bc167e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "37b1485a48fe90d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "31e00fc4aaaff6f3",
+  "lastOpenFiles": [
+    "specials character.md",
+    "Menschen A1.1/Vocaulary lesson 1.md",
+    "Ngữ pháp căn bản 1.md",
+    "Untitled.md",
+    "Menschen A1.1/Number.md",
+    "Untitled.base",
+    "lộ trình học/Lộ trình.md",
+    "lộ trình học/Tháng 1.md",
+    "Menschen A1.1",
+    "lộ trình học"
+  ]
+}
