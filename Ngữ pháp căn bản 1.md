@@ -84,4 +84,7 @@
 | Sie     | sind | haben | lesen |
 | Sie     | sind | haben | lesen |
 
-
+### Cấu trúc của 1 câu đơn 
+- Ví dụ: S + V + O 
+	- Ich komme aus Vienam
+	- Ich Wohne in Vietnam

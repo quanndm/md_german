@@ -1,3 +1,4 @@
+### Từ Vựng
 
 | origin                           | meaning                                 |
 | -------------------------------- | --------------------------------------- |
@@ -45,3 +46,53 @@
 | sehr                             | rất                                     |
 | und                              | và                                      |
 | Die lehrerin                     | Cô giáo                                 |
+| Wo                               | ở đâu                                   |
+| da                               | ở đây                                   |
+
+
+| Word                     | Meaning      |
+| ------------------------ | ------------ |
+| Kaffee                   | Cà phê       |
+| Milch                    | Sữa          |
+| Tee                      | Trà          |
+| Cola                     | Coca cola    |
+| Wein                     | Rượu vang    |
+| Kakao                    | ca cao       |
+| Zucker                   | Đường        |
+| Eis                      | đá           |
+| mit                      | với          |
+| ohne                     | không với    |
+| viel                     | nhiều        |
+| venig (đọc ig giống -ch) | ít           |
+| trinken (v)              | uống         |
+| nehmen (v)               | dùng/sử dụng |
+| möchten (v) (model verb) | muốn         |
+| wann                     | khi nào      |
+
+
+| Word      | Meaning    |
+| --------- | ---------- |
+| zahlen(v) | thanh toán |
+| bitte     | làm ơn     |
+| oder      | hoặc       |
+| Zusammen  | chung      |
+| getrennt  | riêng      |
+| lust      | hứng thú   |
+### Ví dụ mẫu câu 
+1. Was **trinker** Sie ? => Ich **trinke** Kaffee
+2. Was **nehmen** Sie ? =? Ich **nehme** Tee
+3. Was **möchten** Sie **trinken** ? => Ich **möchte** Kakao **trinken** 
+
+| S         | Trinken | Nehmen     | **möchten** |
+| --------- | ------- | ---------- | ----------- |
+| Ich       | trinke  | nehme      | möchte      |
+| du        | trinkst | **nimmst** | möchtest    |
+| er/Sie/es | trinkt  | **nimmt**  | **möchte**  |
+| Wir       | trinken | Nehmen     | möchten     |
+| Ihr       | trinkt  | Nehmt      | möchtet     |
+| SIe/Sie   | trinken | Nehmen     | möchten     |
+
+
+1. Ich möchte zahlen, bitte
+2. Wir möchten zahlen, bitte
+3. das match 20 euro: tổng cộng là 20 euro

@@ -37,12 +37,12 @@
 | 60      | sechzig |
 | 70      | siebzig |
 | 80      | achtzig |
-| 90      | ninezig |
+| 90      | neunzig |
 ### 21 - 99 (số hàng đơn vị + und + số hàng chục )
 
 | Numbers |                  |
 | ------- | ---------------- |
-| 21      | einsundzwanzig   |
+| 21      | ainundzwanzig    |
 | 22      | zwaiundzwanzig   |
 | 23      | dreiundzwanzig   |
 | 24      | vierundzwanzig   |
@@ -56,7 +56,7 @@
 
 | Numbers |               |
 | ------- | ------------- |
-| 100     | einhundert    |
+| 100     | ainhundert    |
 | 200     | zwaihundert   |
 | 300     | dreihundert   |
 | 400     | vierhundert   |
@@ -67,8 +67,8 @@
 | 900     | neunhundert   |
 ### 101-999 (số hàng trăm + số còn lại  - theo quy tắc ở trên)
 vd: 
-- 100 : einhundertains
-- 120 :  einhundertzwanzig
+- 100 : ainhundertains
+- 120 : ainhundertzwanzig
 - 201: zwaihundertains
 - 315: dreihundertfünfzehn
 - 476: vierhundert sechsundsiebzig
