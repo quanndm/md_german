@@ -1,7 +1,7 @@
 ### Artikel: Mạo từ (1)
 - Giống danh từ 
 - Số ít / Số nhiều 
-- Cách 1: Chủ ngữ cách
+- **Cách 1: Chủ ngữ cách**
 - Cách 2: Sỡ hữu cách 
 - Cách 3: Tân ngữ gián tiếp 
 - Cách 4: Tân ngữ trực tiếp 
