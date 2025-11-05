@@ -76,52 +76,57 @@
 4. Một số động từ phổ biến 
 - **Nhóm 1: Động từ đi với _sein_ (thường chỉ di chuyển hoặc thay đổi trạng thái)**
 
-| Động từ   | Nghĩa                 | Partizip II       |
-| --------- | --------------------- | ----------------- |
-| bleiben   | ở lại                 | **ist geblieben** |
-| fahren    | đi (phương tiện)      | **ist gefahren**      |
-| fallen    | rơi                   | **ist gefallen**      |
-| fliegen   | bay                   | **ist geflogen**      |
-| gehen     | đi bộ                 | **ist gegangen**      |
-| kommen    | đến                   | **ist gekommen**      |
-| laufen    | chạy                  | **ist gelaufen**      |
-| wachsen   | lớn lên, trưởng thành | **ist gewachsen**     |
-| ziehen    | kéo, di chuyển        | **ist gezogen**       |
-| aufstehen | đứng dậy, thức dậy    | **ist aufgestanden**  |
-| sterben   | chết                  | **ist gestorben**     |
-| passieren | xảy ra                | **ist passiert**      |
+| Động từ    | Nghĩa                 | Partizip II          |
+| ---------- | --------------------- | -------------------- |
+| bleiben    | ở lại                 | **ist geblieben**    |
+| fahren     | đi (phương tiện), lái | **ist gefahren**     |
+| fallen     | rơi                   | **ist gefallen**     |
+| fliegen    | bay                   | **ist geflogen**     |
+| gehen      | đi bộ                 | **ist gegangen**     |
+| kommen     | đến                   | **ist gekommen**     |
+| laufen     | chạy                  | **ist gelaufen**     |
+| wachsen    | lớn lên, trưởng thành | **ist gewachsen**    |
+| ziehen     | kéo, di chuyển        | **ist gezogen**      |
+| aufstehen  | đứng dậy,thức dậy     | **ist aufgestanden** |
+| sterben    | chết                  | **ist gestorben**    |
+| passieren  | xảy ra                | **ist passiert**     |
+| auswandern | di cư                 | **ist ausgewandert**     |
+| klettern   | leo trèo              | **ist geklettert**       |
+| reisen     | du lịch               | **ist gereist**          |
+| rennen     | chạy                  | **ist gerannt**          |
+| sein       | rằng, thì, là         | **ist gewesen**          |
 - **Nhóm 2: Động từ đi với _haben_ (hầu hết còn lại)**
 
-| Động từ      | Nghĩa               | Partizip II         |
-| ------------ | ------------------- | ------------------- |
-| bringen      | mang                | **hat gebracht**    |
-| denken       | nghĩ                | **hat gedacht**     |
-| essen        | ăn                  | **hat gegessen**    |
-| finden       | tìm thấy            | **hat gefunden**    |
-| geben        | đưa, cho            | **hat gegeben**     |
-| helfen       | giúp đỡ             | **hat geholfen**    |
-| lesen        | đọc                 | **hat gelesen**     |
-| liegen       | nằm                 | **hat gelegen**     |
-| nehmen       | lấy, dùng           | **hat genommen**    |
-| rufen        | gọi                 | **hat gerufen**     |
-| schlafen     | ngủ                 | **hat geschlafen**  |
-| schreiben    | viết                | **hat geschrieben** |
-| sehen        | nhìn                | **hat gesehen**     |
-| singen       | hát                 | **hat gesungen**    |
-| sprechen     | nói                 | **hat gesprochen**  |
-| tragen       | mang, vác           | **hat getragen**    |
-| treffen      | gặp                 | **hat getroffen**   |
-| trinken      | uống                | **hat getrunken**   |
-| wissen       | biết                | **hat gewusst**     |
-| anrufen      | gọi                 | hat angerufen       |
-| sagen        | nói                 | hat gesagt          |
-| üben         | luyện tập           | hat geübt           |
-| haben        | có                  | hat gehabt (hätte)  |
-| telefonieren | gọi điện thoại      | hat telefoniert     |
-| meinen       | cho rằng, nghĩ rằng | hat gemeint         |
-| einladen     | mời                 | hat eingeladen      |
-| reden        | nói chuyện          | hat geredet         |
-| lachen       | cười                | hat gelacht         |
+| Động từ      | Nghĩa               | Partizip II            |
+| ------------ | ------------------- | ---------------------- |
+| bringen      | mang                | **hat gebracht**       |
+| denken       | nghĩ                | **hat gedacht**        |
+| essen        | ăn                  | **hat gegessen**       |
+| finden       | tìm thấy            | **hat gefunden**       |
+| geben        | đưa, cho            | **hat gegeben**        |
+| helfen       | giúp đỡ             | **hat geholfen**       |
+| lesen        | đọc                 | **hat gelesen**        |
+| liegen       | nằm                 | **hat gelegen**        |
+| nehmen       | lấy, dùng           | **hat genommen**       |
+| rufen        | gọi                 | **hat gerufen**        |
+| schlafen     | ngủ                 | **hat geschlafen**     |
+| schreiben    | viết                | **hat geschrieben**    |
+| sehen        | nhìn                | **hat gesehen**        |
+| singen       | hát                 | **hat gesungen**       |
+| sprechen     | nói                 | **hat gesprochen**     |
+| tragen       | mang, vác           | **hat getragen**       |
+| treffen      | gặp                 | **hat getroffen**      |
+| trinken      | uống                | **hat getrunken**      |
+| wissen       | biết                | **hat gewusst**        |
+| anrufen      | gọi                 | **hat angerufen**      |
+| sagen        | nói                 | **hat gesagt**         |
+| üben         | luyện tập           | **hat geübt**          |
+| haben        | có                  | **hat gehabt (hätte)** |
+| telefonieren | gọi điện thoại      | **hat telefoniert**    |
+| meinen       | cho rằng, nghĩ rằng | **hat gemeint**        |
+| einladen     | mời                 | **hat eingeladen**     |
+| reden        | nói chuyện          | **hat geredet**        |
+| lachen       | cười                | **hat gelacht**        |
 
 - **Nhóm 3: Một số động từ đặc biệt khác (rất hay gặp)**
 
