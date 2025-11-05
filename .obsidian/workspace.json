@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa51bd29f9ae038",
+        "id": "c493214464f16912",
         "type": "tabs",
         "children": [
           {
-            "id": "d82cac764eda01df",
+            "id": "f71892e856f0e0fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "studio d1 a1/learning/lesson 9 - Ab in den Urlaub - Thiên nhiên và du lịch Đức.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lesson 9 - Ab in den Urlaub - Thiên nhiên và du lịch Đức"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36474d9f9cec6301",
@@ -176,15 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d82cac764eda01df",
+  "active": "f71892e856f0e0fa",
   "lastOpenFiles": [
+    "studio d1 a1/learning/lesson 9 - Ab in den Urlaub - Thiên nhiên và du lịch Đức.md",
     "specials character.md",
     "studio d1 a1/learning/lesson 12 - Körper und Gensundheit - Cơ thể và sức khỏe.md",
     "studio d1 a1/learning/lesson 7 -  Berufe - Nghề nghiệp.md",
     "studio d1 a1/learning/lesson 11 - Keidung und Wetter - Trang phục và thời tiết.md",
     "studio d1 a1/learning/lesson 10 - Essen und Trinken - Đồ ăn và thức uống - ẩm thực trong tiếng đức.md",
     "studio d1 a1/learning/lesson 3 - City - Country - Language.md",
-    "studio d1 a1/learning/lesson 9 - Ab in den Urlaub - Thiên nhiên và du lịch Đức.md",
     "studio d1 a1/learning/lesson 8 -Berlin sehen - tham quan Berlin.md",
     "studio d1 a1/learning/lesson 5 - Termine - Time.md",
     "studio d1 a1/learning/lesson 6 - Orientierung - Định hướng.md",

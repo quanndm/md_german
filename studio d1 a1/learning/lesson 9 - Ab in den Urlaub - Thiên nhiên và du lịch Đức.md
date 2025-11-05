@@ -92,32 +92,41 @@
 | passieren | xảy ra                | **ist passiert**      |
 - **Nhóm 2: Động từ đi với _haben_ (hầu hết còn lại)**
 
-| Động từ   | Nghĩa     | Partizip II     |
-| --------- | --------- | --------------- |
-| bringen   | mang      | **hat gebracht**    |
-| denken    | nghĩ      | **hat gedacht**     |
-| essen     | ăn        | **hat gegessen**    |
-| finden    | tìm thấy  | **hat gefunden**    |
-| geben     | đưa, cho  | **hat gegeben**     |
-| helfen    | giúp đỡ   | **hat geholfen**    |
-| lesen     | đọc       | **hat gelesen**     |
-| liegen    | nằm       | **hat gelegen**     |
-| nehmen    | lấy, dùng | **hat genommen**    |
-| rufen     | gọi       | **hat gerufen**     |
-| schlafen  | ngủ       | **hat geschlafen**  |
-| schreiben | viết      | **hat geschrieben** |
-| sehen     | nhìn      | **hat gesehen**     |
-| singen    | hát       | **hat gesungen**    |
-| sprechen  | nói       | **hat gesprochen**  |
-| tragen    | mang, vác | **hat getragen**    |
-| treffen   | gặp       | **hat getroffen**   |
-| trinken   | uống      | **hat getrunken**   |
-| wissen    | biết      | **hat gewusst**     |
+| Động từ      | Nghĩa               | Partizip II         |
+| ------------ | ------------------- | ------------------- |
+| bringen      | mang                | **hat gebracht**    |
+| denken       | nghĩ                | **hat gedacht**     |
+| essen        | ăn                  | **hat gegessen**    |
+| finden       | tìm thấy            | **hat gefunden**    |
+| geben        | đưa, cho            | **hat gegeben**     |
+| helfen       | giúp đỡ             | **hat geholfen**    |
+| lesen        | đọc                 | **hat gelesen**     |
+| liegen       | nằm                 | **hat gelegen**     |
+| nehmen       | lấy, dùng           | **hat genommen**    |
+| rufen        | gọi                 | **hat gerufen**     |
+| schlafen     | ngủ                 | **hat geschlafen**  |
+| schreiben    | viết                | **hat geschrieben** |
+| sehen        | nhìn                | **hat gesehen**     |
+| singen       | hát                 | **hat gesungen**    |
+| sprechen     | nói                 | **hat gesprochen**  |
+| tragen       | mang, vác           | **hat getragen**    |
+| treffen      | gặp                 | **hat getroffen**   |
+| trinken      | uống                | **hat getrunken**   |
+| wissen       | biết                | **hat gewusst**     |
+| anrufen      | gọi                 | hat angerufen       |
+| sagen        | nói                 | hat gesagt          |
+| üben         | luyện tập           | hat geübt           |
+| haben        | có                  | hat gehabt (hätte)  |
+| telefonieren | gọi điện thoại      | hat telefoniert     |
+| meinen       | cho rằng, nghĩ rằng | hat gemeint         |
+| einladen     | mời                 | hat eingeladen      |
+| reden        | nói chuyện          | hat geredet         |
+| lachen       | cười                | hat gelacht         |
 
 - **Nhóm 3: Một số động từ đặc biệt khác (rất hay gặp)**
 
-| Động từ   | Nghĩa     | Partizip II    |
-| --------- | --------- | -------------- |
+| Động từ   | Nghĩa     | Partizip II        |
+| --------- | --------- | ------------------ |
 | beginnen  | bắt đầu   | **hat begonnen**   |
 | bekommen  | nhận được | **hat bekommen**   |
 | bleiben   | ở lại     | **ist geblieben**  |
