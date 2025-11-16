@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c493214464f16912",
+        "id": "7c833d001c559cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "f71892e856f0e0fa",
+            "id": "889d39b56d4aed1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "36474d9f9cec6301",
@@ -179,18 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f71892e856f0e0fa",
+  "active": "889d39b56d4aed1f",
   "lastOpenFiles": [
+    "Giới từ khi đi với dativ.md",
     "studio d1 a1/learning/lesson 9 - Ab in den Urlaub - Thiên nhiên và du lịch Đức.md",
-    "specials character.md",
     "studio d1 a1/learning/lesson 12 - Körper und Gensundheit - Cơ thể và sức khỏe.md",
-    "studio d1 a1/learning/lesson 7 -  Berufe - Nghề nghiệp.md",
     "studio d1 a1/learning/lesson 11 - Keidung und Wetter - Trang phục và thời tiết.md",
     "studio d1 a1/learning/lesson 10 - Essen und Trinken - Đồ ăn và thức uống - ẩm thực trong tiếng đức.md",
-    "studio d1 a1/learning/lesson 3 - City - Country - Language.md",
     "studio d1 a1/learning/lesson 8 -Berlin sehen - tham quan Berlin.md",
-    "studio d1 a1/learning/lesson 5 - Termine - Time.md",
+    "studio d1 a1/learning/lesson 7 -  Berufe - Nghề nghiệp.md",
     "studio d1 a1/learning/lesson 6 - Orientierung - Định hướng.md",
+    "specials character.md",
+    "studio d1 a1/learning/lesson 3 - City - Country - Language.md",
+    "studio d1 a1/learning/lesson 5 - Termine - Time.md",
     "studio d1 a1/learning/lesson 4 - Menschen und Häuser.md",
     "studio d1 a1/learning/lesson 1 - kaffee order Tee.md",
     "studio d1 a1/learning/lesson 2 - Sprache im kurs.md",

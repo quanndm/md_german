@@ -90,11 +90,11 @@
 | aufstehen  | đứng dậy,thức dậy     | **ist aufgestanden** |
 | sterben    | chết                  | **ist gestorben**    |
 | passieren  | xảy ra                | **ist passiert**     |
-| auswandern | di cư                 | **ist ausgewandert**     |
-| klettern   | leo trèo              | **ist geklettert**       |
-| reisen     | du lịch               | **ist gereist**          |
-| rennen     | chạy                  | **ist gerannt**          |
-| sein       | rằng, thì, là         | **ist gewesen**          |
+| auswandern | di cư                 | **ist ausgewandert** |
+| klettern   | leo trèo              | **ist geklettert**   |
+| reisen     | du lịch               | **ist gereist**      |
+| rennen     | chạy                  | **ist gerannt**      |
+| sein       | rằng, thì, là         | **ist gewesen**      |
 - **Nhóm 2: Động từ đi với _haben_ (hầu hết còn lại)**
 
 | Động từ      | Nghĩa               | Partizip II            |
